@@ -138,19 +138,6 @@ Bot 才适合调用 Skill 里的“金融神童 / 560 亿 IP 价值”梗。
 - 不把 Skill 中的夸张说法当成事实。
 - 群友明显不舒服时，降低强度或切回正常回答。
 
-## 发布到 GitHub
-
-新手建议直接使用网页上传：
-
-1. 在 GitHub 新建仓库，仓库名建议：`genshin-bible-groupchat-skill`。
-2. 选择 Public 或 Private。
-3. 点击 `Add file` → `Upload files`。
-4. 上传本文件夹内的所有内容。
-5. Commit message 可以写：`Initial release`。
-6. 发布 Release 时，把可导入的 ZIP 包作为附件上传。
-
-命令行方式见：[`docs/github-publish-guide.md`](docs/github-publish-guide.md)。
-
 ## 免责声明
 
 - 本项目是玩家社区语境下的反串梗库，与米哈游、HoYoverse、Cognosphere 或《原神》官方无关。
